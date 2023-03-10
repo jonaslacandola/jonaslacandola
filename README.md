@@ -14,7 +14,7 @@ Currently taking Bachelor of Science in Information Technology at Mabalacat City
 <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat" width="125" height="50"> <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat" width="125" height="50"> <img src="https://img.shields.io/badge/-.NET-5C2D91?logo=.net&logoColor=white&style=flat" width="110" height="50"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" width="150" height="50">
 
 <h2>🚀 Projects</h2>
-Soon! 👋
+<h3>Soon! 👋</h3>
 <h2>🌱 Currently Learning</h2>
 Full-stack Web Development
 <h2>📫 Let's Connect</h2>
