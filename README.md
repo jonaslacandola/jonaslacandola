@@ -1,24 +1,21 @@
-<h1>Hi there, I'm Jonas 👋</h1>
-<h4>I'm a student with a passion for learning and developing new skills. I am constantly seeking new challenges and opportunities to grow both personally and professionally.</h4>
+# Hi there, I'm Jonas 👋
+#### I'm a student with a passion for learning and developing new skills. I am constantly seeking new challenges and opportunities to grow both personally and professionally.
 
-<h2>📚 Education</h2>
+## 📚 Education
 Currently taking Bachelor of Science in Information Technology at Mabalacat City College
-<h2>💻 Technical Skills</h2>
-<ul>
-  <li>Web development: HTML, CSS</li>
-  <li>Databases: MySQL</li>
-  <li>Tools: Git, Visual Studio Code, IntelliJ IDEA</li>
-</ul>
-<h3>Programming Skills</h3>
-<img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat"> <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat"> <img src="https://img.shields.io/badge/-.NET-5C2D91?logo=.net&logoColor=white&style=flat"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat">
-<h2>🚀 Projects</h2>
-<h3>Soon! 👋</h3>
-<h2>🌱 Currently Learning</h2>
-Full-stack Web Development
-<h2>📫 Let's Connect</h2>
-<ul>
-  <li>LinkedIn: linkedin.com/in/jonaslacandola/</li>
-  <li>Email: jonaslacandola07@gmail.com</li>
-</ul>
+## 💻 Technical Skills
+- Web development: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+- Databases: ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- Tools: Git, Visual Studio Code, IntelliJ IDEA
 
-<h4>Thanks for visiting my profile!</h4>
+### Programming Skills 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
+## 🚀 Projects 
+### Soon! 👋
+## 🌱 Currently Learning</h2>
+Full-stack Web Development
+## 📫 Let's Connect</h2>
+- LinkedIn: linkedin.com/in/jonaslacandola/</li>
+- Email: jonaslacandola07@gmail.com</li>
+
+#### Thanks for visiting my profile!
