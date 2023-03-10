@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1>Hi there, I'm Jonas 👋</h1>
+<h4>I'm a student with a passion for learning and developing new skills. I am constantly seeking new challenges and opportunities to grow both personally and professionally.</h4>
 
-<!--
-**jonaslacandola/jonaslacandola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>📚 Education</h2>
+Currently taking Bachelor of Science in Information Technology at Mabalacat City College
+<h2>💻 Technical Skills</h2>
+<ul>
+  <li>Web development: HTML, CSS</li>
+  <li>Databases: MySQL</li>
+  <li>Tools: Git, Visual Studio Code, IntelliJ IDEA</li>
+</ul>
+<h3>Programming Skills</h3>
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat" width="125" height="50"> <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat" width="125" height="50"> <img src="https://img.shields.io/badge/-.NET-5C2D91?logo=.net&logoColor=white&style=flat" width="110" height="50"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" width="150" height="50">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🚀 Projects</h2>
+Soon! 👋
+<h2>🌱 Currently Learning</h2>
+Full-stack Web Development
+<h2>📫 Let's Connect</h2>
+<ul>
+  <li>LinkedIn: linkedin.com/in/jonaslacandola/</li>
+  <li>Email: jonaslacandola07@gmail.com</li>
+</ul>
+
+<h4>Thanks for visiting my profile!</h4>
