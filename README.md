@@ -13,7 +13,7 @@ Currently taking Bachelor of Science in Information Technology at Mabalacat City
 
 ## 🚀 Projects 
 ### https://jonaslacandola.github.io/ChungchunWeb/
-### More Coming Soon! 👋
+### More Coming Soon! 🚀
 ## 🌱 Currently Learning</h2>
 Full-stack Web Development
 ## 📫 Let's Connect</h2>
