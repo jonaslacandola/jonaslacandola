@@ -2,7 +2,7 @@
 #### I'm a student with a passion for learning and developing new skills. I am constantly seeking new challenges and opportunities to grow both personally and professionally.
 
 ## 📚 Education
-Currently taking Bachelor of Science in Information Technology at Mabalacat City College
+Bachelor of Science in Information Technology at Mabalacat City College
 ## 💻 Technical Skills
 - Web development: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 - Databases: ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
