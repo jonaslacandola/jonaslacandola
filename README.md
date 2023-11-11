@@ -65,7 +65,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jonaslacandola/jonaslacandola/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/jonaslacandola/jonaslacandola/blob/output/snake.svg)
 
 ###
 
