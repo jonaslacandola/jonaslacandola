@@ -65,7 +65,7 @@
 
 ###
 
-![snake gif](https://github.com/jonaslacandola/jonaslacandola/blob/output/snake.svg)
+<image src="https://github.com/jonaslacandola/jonaslacandola/blob/output/snake.svg" alt="svg snake"/>
 
 ###
 
