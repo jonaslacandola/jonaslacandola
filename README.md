@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I am a front-end developer and a student from the Philippines with a passion for web app development, learning, and developing new skills. I am constantly seeking new challenges and opportunities to grow both personally, and professionally.<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning full stack web development with MERN<br>- ⚡ In my free time I study and enhance my skills.<br>- 💪 I am a developer, photographer,  cinematographer, video editor and a visual artist.</p>
+<p align="left">I am a front-end developer and a student from the Philippines with a passion for web app development, learning, and developing new skills. I am constantly seeking new challenges and opportunities to grow both personally, and professionally.<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning full stack web development with MERN<br>- ⚡ In my free time I study and enhance my skills.<br>- 💪 I am a developer, photographer,  cinematographer, video editor and visual artist.</p>
 
 ###
 
